@@ -1,0 +1,12 @@
+.parent
+{
+
+    text-align: center;
+    margin-top: 10%;
+    border: 1px solid black;
+}
+div
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

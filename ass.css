@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+a:focus{
+    font-weight: bold;
+    margin-left: 10%;
+    color: brown;
+    background-color: antiquewhite;
+}
+a:hover{
+    color: aqua;
+    background-color: black;
+}
+a:active{
+    color: aqua;
+    background-color: yellow;
+}
+
+h1{
+    font-weight: lighter;
+    text-transform: lowercase;
+    text-indent: 60%;
+    border-style:  dotted solid;
+    text-shadow: 10px 11px red;   
+}
+
+ol{
+    list-style-type: disc;
+    list-style-position:inside;
+}
+p{
+   font-size: 15px;
+}
+.container
+{
+    display: flex;
+}
